@@ -264,13 +264,6 @@ Nothing leaves your machine unless you opt in to the AI features. The index is a
 - [ ] Small web interface
 - [ ] Labelled evaluation set from real documents
 
-## Contributing
-
-Issues and pull requests are welcome. Please run the test suite before submitting, and add a test for any new extraction rule or loader.
-
-## License
-
-Released under the MIT License. See [LICENSE](LICENSE).
 
 ## Author
 
