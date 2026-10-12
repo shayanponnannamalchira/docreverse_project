@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "docreverse"
+version = "1.0.0"
+description = "Reverse-engineer company documents into a queryable model of how the organisation works."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []          # the core is pure standard library
+
+[project.optional-dependencies]
+pdf = ["pypdf>=4.0"]
+llm = ["anthropic>=0.40"]
+all = ["pypdf>=4.0", "anthropic>=0.40"]
+
+[project.scripts]
+docreverse = "docreverse.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["docreverse*"]

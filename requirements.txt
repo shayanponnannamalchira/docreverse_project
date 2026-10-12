@@ -1,0 +1,4 @@
+# The core of DocReverse needs NOTHING beyond the Python standard library (3.9+).
+# Optional extras:
+pypdf>=4.0        # PDF text extraction (or install poppler's `pdftotext`)
+anthropic>=0.40   # LLM-assisted Q&A and "deep" extraction (needs ANTHROPIC_API_KEY)

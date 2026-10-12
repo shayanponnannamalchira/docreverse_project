@@ -1,0 +1,13 @@
+EMPLOYEE ONBOARDING PROCEDURE
+
+Document ID: HR-201
+Owner: HR Operations Manager
+
+PURPOSE
+This procedure explains how new hires are set up before their first day.
+
+STEPS
+First, the Recruiter sends the signed Offer Letter to HR. Then HR creates the employee record in Workday. Next, the IT Service Desk provisions a laptop and creates accounts in Okta. After that, the Hiring Manager assigns an onboarding buddy. On the first day, the new Employee completes the Security Awareness Training. Finally, the HR Business Partner confirms that all onboarding tasks are complete within 30 days.
+
+NOTES
+Access to Workday is restricted. Contractors do not follow this procedure; see the Contractor Management Policy.

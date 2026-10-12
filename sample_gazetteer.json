@@ -1,0 +1,6 @@
+{
+  "systems": ["Workday", "PagerDuty", "Confluence"],
+  "roles": ["Incident Commander", "Hiring Manager"],
+  "teams": ["Security Team", "Communications Team"],
+  "aliases": {"SAP ERP": "SAP", "Service Now": "ServiceNow"}
+}

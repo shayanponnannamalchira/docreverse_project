@@ -1,0 +1,4 @@
+.docreverse/
+__pycache__/
+*.pyc
+out/
